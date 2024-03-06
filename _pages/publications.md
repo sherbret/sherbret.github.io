@@ -7,8 +7,7 @@ author_profile: true
 
 All my publications are available on my Google scholar [page](https://scholar.google.com/citations?user=49pGY58AAAAJ&hl=fr&oi=ao).
 
-List of publications
-======
+
 
 S. Herbreteau, E. Moebel, and C. Kervrann, “[Normalization-Equivariant Neural Networks with Application to Image Denoising](https://papers.nips.cc/paper_files/paper/2023/hash/12143893d9d37c3569dda800b95cabd9-Abstract-Conference.html),” in *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
 
