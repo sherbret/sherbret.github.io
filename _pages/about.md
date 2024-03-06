@@ -14,14 +14,16 @@ Brief vitae
 
 Sébastien Herbreteau graduated from Grenoble INP – Ensimag in 2020 with a specialization in mathematical modeling, vision, graphics and simulation. From 2020 to 2023, he was a PhD student under the supervision of Charles Kervrann at Centre Inria de l’Université de Rennes on the research topic of image denoising. Since 2024, he has been a postdoctoral researcher at Ecole Polytechnique Féférale de Lausanne (EPFL) working with Michael Unser. His research interests include statistical and machine learning methods for image processing, inverse problems, optimization and mathematical understanding of neural networks.
 
-Getting started
+List of publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+S. Herbreteau, E. Moebel, and C. Kervrann, “[Normalization-Equivariant Neural Networks with Application to Image Denoising](https://papers.nips.cc/paper_files/paper/2023/hash/12143893d9d37c3569dda800b95cabd9-Abstract-Conference.html),” in *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
+
+S. Herbreteau and C. Kervrann, “[DCT2net: An Interpretable Shallow CNN for Image Denoising](https://ieeexplore.ieee.org/document/9799727),” in *IEEE Transactions on Image Processing*, vol. 31, pp. 4292-4305, 2022.
+
+S. Herbreteau and C. Kervrann, “[Towards a Unified View of Unsupervised Non-Local Methods for Image Denoising: The NL-Ridge Approach](https://ieeexplore.ieee.org/document/9897992),” in *IEEE International Conference on Image Processing (ICIP)*, pp. 3376-3380, Bordeaux, France, 2022.
+
+S. Herbreteau and C. Kervrann, “[Unsupervised Linear and Iterative Combinations of Patches for Image Denoising](https://arxiv.org/abs/2212.00422),” *arXiv preprint arXiv:2212.00422*, 2022. (under review)
 
 Site-wide configuration
 ------
