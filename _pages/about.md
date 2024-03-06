@@ -47,12 +47,3 @@ Communications
 S. Herbreteau and C. Kervrann, “NL-Ridge: a novel statistical patch-based approach for image denoising,”  in *10th International Conference on Curves and Surfaces, organised by SMAI-SIGMA*, Arcachon, France, 2022.
 
 S. Herbreteau and C. Kervrann, “DCT2net: a DCT-based interpretable shallow CNN method for efficient and fast image denoising,”  in *SIAM Conference on Imaging Science (IS22)*, virtual conference, 2022.
-
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
