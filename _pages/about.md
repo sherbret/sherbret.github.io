@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Sébastien Herbreteau"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Email::** sebastien.herbreteau@epfl.ch
+**Email:** sebastien.herbreteau@epfl.ch
 
 **Google Scholar:** [link](https://scholar.google.com/citations?user=49pGY58AAAAJ&hl=fr&oi=ao)
 
