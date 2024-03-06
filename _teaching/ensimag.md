@@ -8,4 +8,4 @@ date: 2019-01-01
 location: "Grenoble, France"
 ---
 
-Analysis & linear algebr (30h)
+Analysis & linear algebra (30h)
