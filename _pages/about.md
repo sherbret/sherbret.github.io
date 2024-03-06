@@ -25,7 +25,7 @@ S. Herbreteau and C. Kervrann, “[A unified framework of non-local parametric m
 for image denoising](https://arxiv.org/abs/2402.13816),” *arXiv preprint arXiv:2402.13816*, 2024. (under review)
 
 S. Herbreteau and C. Kervrann, “[On normalization-equivariance properties of supervised
-and unsupervised denoising methods: a survey](https://arxiv.org/abs/2402.15352),” arXiv preprint arXiv:2402.15352, 2024.
+and unsupervised denoising methods: a survey](https://arxiv.org/abs/2402.15352),” arXiv preprint arXiv:2402.15352, 2024. (under review)
 
 S. Herbreteau and C. Kervrann, “[Unsupervised Linear and Iterative Combinations of Patches for Image Denoising](https://arxiv.org/abs/2212.00422),” *arXiv preprint arXiv:2212.00422*, 2022. (under review)
 
