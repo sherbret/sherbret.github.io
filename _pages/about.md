@@ -7,11 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**Email:** sebastien.herbreteau@epfl.ch
-
-**Google Scholar:** [link](https://scholar.google.com/citations?user=49pGY58AAAAJ&hl=fr&oi=ao)
-
-**Github:** [https://github.com/sherbret](https://github.com/sherbret)
 
 
 Brief vitae
