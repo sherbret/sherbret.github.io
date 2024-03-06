@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Nantes"
 date: 2015-01-01
-location: "City, Country"
+location: "Nantes, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Advanced statistics: reinforcement learning & model-based clustering (14h)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
