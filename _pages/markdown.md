@@ -15,10 +15,11 @@ Code: [here](https://github.com/sherbret/normalization_equivariant_nn).
 
 
 
-
-
 ## DCT2net
-Publication: [here](https://arxiv.org/abs/2107.14803). / Code: [here](https://github.com/sherbret/DCT2net).
+<img src="./../images/DCT2net2.png" alt="drawing" width="400"/> 
+
+Publication: [here](https://arxiv.org/abs/2107.14803). 
+Code: [here](https://github.com/sherbret/DCT2net).
 
 ## NL-Ridge
 Publication: [here](https://arxiv.org/abs/2203.00570). / Code: [here](https://github.com/sherbret/NL-Ridge).
