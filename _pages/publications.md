@@ -22,3 +22,10 @@ S. Herbreteau and C. Kervrann, “[On normalization-equivariance properties of s
 and unsupervised denoising methods: a survey](https://arxiv.org/abs/2402.15352),” arXiv preprint arXiv:2402.15352, 2024. (under review)
 
 S. Herbreteau and C. Kervrann, “[Unsupervised Linear and Iterative Combinations of Patches for Image Denoising](https://arxiv.org/abs/2212.00422),” *arXiv preprint arXiv:2212.00422*, 2022. (under review)
+
+#### Patents 
+
+T. Guionnet and S. Herbreteau, `“[Method for image processing and apparatus for implementing the same](https://patentimages.storage.googleapis.com/d6/ff/61/728fd10e023368/US11483590.pdf),” *US Patent App. 17/390,509*, 2022.
+
+T. Guionnet and S. Herbreteau, “[Method for image processing and apparatus for implementing the same](https://patentimages.storage.googleapis.com/18/d9/a6/4d4b661fed6457/US20210343045A1.pdf),” *US Patent App. 17/307,419*, 2021.
+
