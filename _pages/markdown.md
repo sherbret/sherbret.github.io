@@ -14,8 +14,10 @@ We propose a methodology for adapting existing neural networks so that normaliza
 
 <p align="center">
   <img src="./../images/nenn.png" alt="drawing" width="400"/> 
-  
- <em> <sub> Illustration of the proposed normalization-equivariant alternative for replacing the traditional scheme “convolution + element-wise activation function” in CNNs: affine convolutions supersede ordinary ones by restricting the coefficients of each kernel to sum to one and the proposed sort pooling patterns introduce nonlinearities by sorting two by two the pre-activated neurons along the channels. <sub> </em>
+ </p>
+
+ <p align="center">
+  <sub>Illustration of the proposed normalization-equivariant alternative for replacing the traditional scheme “convolution + element-wise activation function” in CNNs: affine convolutions supersede ordinary ones by restricting the coefficients of each kernel to sum to one and the proposed sort pooling patterns introduce nonlinearities by sorting two by two the pre-activated neurons along the channels.</sub>
 </p>
 
 Publication: [here](https://papers.nips.cc/paper_files/paper/2023/hash/12143893d9d37c3569dda800b95cabd9-Abstract-Conference.html). 
