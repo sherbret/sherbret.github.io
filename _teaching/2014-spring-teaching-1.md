@@ -1,11 +1,7 @@
----
-title: "Teaching assistant"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "INSA Rennes"
-date: 2022-01-01
-location: "Rennes, France"
----
 
-Linear algebra & probability (84h)
+
+### Teaching assistant at INSA Rennes (undergraduate course)
+
+Year: 2021 - 2023
+
+Linear algebra & probability (84h in total)
