@@ -18,8 +18,7 @@ S. Herbreteau and C. Kervrann, “[DCT2net: An Interpretable Shallow CNN for Ima
 
 S. Herbreteau and C. Kervrann, “[Towards a Unified View of Unsupervised Non-Local Methods for Image Denoising: The NL-Ridge Approach](https://ieeexplore.ieee.org/document/9897992),” in *IEEE International Conference on Image Processing (ICIP)*, pp. 3376-3380, Bordeaux, France, 2022.
 
-Preprints
-------
+#### Preprints
 
 S. Herbreteau and C. Kervrann, “[A unified framework of non-local parametric methods
 for image denoising](https://arxiv.org/abs/2402.13816),” *arXiv preprint arXiv:2402.13816*, 2024. (under review)
