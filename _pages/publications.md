@@ -29,3 +29,12 @@ T. Guionnet and S. Herbreteau, `“[Method for image processing and apparatus fo
 
 T. Guionnet and S. Herbreteau, “[Method for image processing and apparatus for implementing the same](https://patentimages.storage.googleapis.com/18/d9/a6/4d4b661fed6457/US20210343045A1.pdf),” *US Patent App. 17/307,419*, 2021.
 
+
+Communications
+======
+
+S. Herbreteau and C. Kervrann, “[DCT2net: a DCT-based interpretable shallow CNN method for efficient and fast image denoising](https://hal.science/hal-03926530/document),”  in *SIAM Conference on Imaging Science (IS22)*, virtual conference, 2022.
+
+S. Herbreteau and C. Kervrann, “[NL-Ridge: a novel statistical patch-based approach for image denoising](https://hal.science/hal-03926478v1/document),”  in *10th International Conference on Curves and Surfaces, organised by SMAI-SIGMA*, Arcachon, France, 2022.
+
+
