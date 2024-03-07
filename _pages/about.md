@@ -38,6 +38,7 @@ T. Guionnet and S. Herbreteau, “[Method for image processing and apparatus for
 Communications
 ======
 
-S. Herbreteau and C. Kervrann, “NL-Ridge: a novel statistical patch-based approach for image denoising,”  in *10th International Conference on Curves and Surfaces, organised by SMAI-SIGMA*, Arcachon, France, 2022.
+S. Herbreteau and C. Kervrann, “[DCT2net: a DCT-based interpretable shallow CNN method for efficient and fast image denoising](https://hal.science/hal-03926530/document),”  in *SIAM Conference on Imaging Science (IS22)*, virtual conference, 2022.
 
-S. Herbreteau and C. Kervrann, “DCT2net: a DCT-based interpretable shallow CNN method for efficient and fast image denoising,”  in *SIAM Conference on Imaging Science (IS22)*, virtual conference, 2022.
+S. Herbreteau and C. Kervrann, “[NL-Ridge: a novel statistical patch-based approach for image denoising](https://hal.science/hal-03926478v1/document),”  in *10th International Conference on Curves and Surfaces, organised by SMAI-SIGMA*, Arcachon, France, 2022.
+
