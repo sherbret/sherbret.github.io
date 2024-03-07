@@ -40,11 +40,22 @@ Code: [here](https://github.com/sherbret/DCT2net).
 
 ## NL-Ridge
 
-We propose a unified view of unsupervised non-local methods for image denoising based on quadratic risk minimization. Under this paradigm, we build a novel denoiser called NL-Ridge which leverages linear combinations of patches. LIChI, its multi-stage extension developed subsequently, achieves state-of-the-art performance in unsupervised image denoising.
+We propose a unified view of unsupervised non-local methods for image denoising based on quadratic risk minimization. Under this paradigm, we build a novel denoiser called NL-Ridge which leverages linear combinations of patches. 
+
+<p align="center">
+  <img src="./../images/nlridge.png" alt="drawing" width="600"/> 
+ </p>
+
+ <p align="center"> 
+   <sub> llustration of the parametric view of several popular non-local denoisers. Examples of parameterized functions unequivocally identifying the denoiser are given, whose optimal parameters are eventually selected for each group of patches by “internal adaptation” optimization. </sub>
+</p>
 
 Publication: [here](https://arxiv.org/abs/2203.00570). / Code: [here](https://github.com/sherbret/NL-Ridge).
 
 ## LIChI
+
+LIChI is the multi-stage extension of NL-Ridge developed subsequently, achieving state-of-the-art performance in unsupervised image denoising.
+
 Publication: [here](https://arxiv.org/abs/2212.00422). / Code: [here](https://github.com/sherbret/LIChI).
 
 
