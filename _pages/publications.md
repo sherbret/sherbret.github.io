@@ -7,9 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=49pGY58AAAAJ&hl=fr&oi=ao).
 
-
-
-S. Herbreteau, E. Moebel, and C. Kervrann, “[Normalization-Equivariant Neural Networks with Application to Image Denoising](https://papers.nips.cc/paper_files/paper/2023/hash/12143893d9d37c3569dda800b95cabd9-Abstract-Conference.html),” in *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
+S. Herbreteau, E. Moebel, and C. Kervrann, “[Normalization-Equivariant Neural Networks with Application to Image Denoising](https://papers.nips.cc/paper_files/paper/2023/hash/12143893d9d37c3569dda800b95cabd9-Abstract-Conference.html),” in *Advances in Neural Information Processing Systems (NeurIPS)*, vol. 36, pp. 5706-5728, 2023.
 
 S. Herbreteau and C. Kervrann, “[DCT2net: An Interpretable Shallow CNN for Image Denoising](https://ieeexplore.ieee.org/document/9799727),” in *IEEE Transactions on Image Processing*, vol. 31, pp. 4292-4305, 2022.
 
