@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My [CV](myCVfrench.pdf) in French.
+You can download my CV (in French) [here](myCVfrench.pdf).
