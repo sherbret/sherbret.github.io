@@ -13,7 +13,7 @@ We propose a methodology for adapting existing neural networks so that normaliza
 
 
 <p align="center">
-  <img src="./../images/nenn.png" alt="drawing" width="400"/> 
+  <img src="./../images/nenn.png" alt="drawing" width="600"/> 
  </p>
 
  <p align="center">
@@ -23,13 +23,17 @@ We propose a methodology for adapting existing neural networks so that normaliza
 Publication: [here](https://papers.nips.cc/paper_files/paper/2023/hash/12143893d9d37c3569dda800b95cabd9-Abstract-Conference.html). 
 Code: [here](https://github.com/sherbret/normalization_equivariant_nn).
 
-
-
 ## DCT2net
 
 Focusing specifically on the popular DCT (Discrete Cosine Transform) denoiser, we show that it can be seen as a shallow CNN with weights corresponding to the DCT projection kernel and a hard shrinkage function as activation function. By training this particular CNN on an external dataset, we can refine the resulting transform and improve considerably its performance.
 
-<img src="./../images/DCT2net2.png" alt="drawing" width="400"/> 
+<p align="center">
+  <img src="./../images/DCT2net2.png" alt="drawing" width="600"/> 
+ </p>
+
+ <p align="center"> 
+   <sub> Architecture of DCT2net for patches of size 5×5. </sub>
+</p>
 
 Publication: [here](https://arxiv.org/abs/2107.14803). 
 Code: [here](https://github.com/sherbret/DCT2net).
