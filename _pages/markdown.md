@@ -43,7 +43,7 @@ Focusing specifically on the popular DCT (Discrete Cosine Transform) denoiser, w
 
 ## NL-Ridge
 
-[[Paper](https://arxiv.org/abs/2203.00570)] [Code](https://github.com/sherbret/NL-Ridge)]
+[[Paper](https://arxiv.org/abs/2203.00570)] [[Code](https://github.com/sherbret/NL-Ridge)]
 
 We propose a unified view of unsupervised non-local methods for image denoising based on quadratic risk minimization. Under this paradigm, we build a novel denoiser called NL-Ridge which leverages linear combinations of patches. 
 
