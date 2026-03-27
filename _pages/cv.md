@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](CV_sebastien_herbreteau.pdf).
+You can download my CV [here](CV_sebastien_herbreteau_french.pdf).
